@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Countries Quiz Privacy Policy</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <main>
+    <h1>Privacy Policy</h1>
+    <p>Countries Quiz does not collect personal data directly unless you contact support.</p>
+    <p>If third-party analytics or ads are used, they may collect limited device or usage data in accordance with their own policies.</p>
+    <p>For privacy questions, contact <a href="mailto:you@example.com">you@example.com</a>.</p>
+    <p>Last updated: April 13, 2026</p>
+  </main>
+</body>
+</html>
