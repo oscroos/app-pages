@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/oscarroos/CodingProjects -type d -iname \"*golf*\" 2>/dev/null | head -20)",
+      "Read(//Users/oscarroos/CodingProjects/**)"
+    ]
+  }
+}
